@@ -29,4 +29,4 @@ async def memrust(ctx):
 
 
 
-bot.run("MTE1MDA3MzY1Nzg3MjM1MTI0Mw.Guhf2p.ocd1xWApu4XtNxzNXD_pXnJOnrz08nx3qcAFAw")
+bot.run("token")
